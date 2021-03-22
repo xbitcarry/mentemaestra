@@ -9,6 +9,7 @@ Var
 	salir : boolean;
 
 begin
+	ClrScr;
 	Randomize;
 	i := 1;
 	salir := False;
